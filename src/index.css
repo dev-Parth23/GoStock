@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+body::-webkit-scrollbar{
+  display: none;
+}
+img {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  pointer-events: auto;
+  pointer-events: none; /* Disable interactions */
+}
+* {
+  user-select: none;
+}

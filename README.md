@@ -32,7 +32,7 @@ To run the project locally:
 
 2. Navigate to the project directory:
    ```bash
-   cd GoStock
+   cd The_Bull_Desk
    ```
 
 3. Install the dependencies:
@@ -42,7 +42,7 @@ To run the project locally:
 
 4. Run the project:
    ```bash
-   npm start
+   npm run dev
    ```
 
 The website will be available at `http://localhost:3000`.
